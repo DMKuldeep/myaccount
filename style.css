@@ -38,6 +38,9 @@
   margin-top: 30px;
 }
 
+.a{
+  text-emphasis: none;
+}
 .content {
   position: relative;
   top: 0;
@@ -46,6 +49,10 @@
   margin-bottom: 24px;
   height: 64px;
   flex-shrink: 0;
+}
+.row .togglemenu {
+  margin-top: 32px;
+  margin-bottom: 40px;
 }
 
 .SÖTBELLA {
@@ -58,6 +65,7 @@
   line-height: 64px;
   /* 100% */
   align-items: center;
+  margin-left: 16px;
 }
 
 .content .list-inline-item:not(:last-child) {
@@ -816,10 +824,6 @@ p.discount {
   margin-left: -30px;
 }
 
-.row .togglemenu {
-  margin-top: 56px;
-  margin-bottom: 32px;
-}
 
 .profile {
   top: 35px;
