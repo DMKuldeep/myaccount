@@ -68,6 +68,9 @@ p.edittext {
 .container.persondetails {
   margin-right: 132px;
 }
+div#v-pills-tab {
+  margin-bottom: 226px;
+}
 
 p.accoountholderemail {
   color: #000;
